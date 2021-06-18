@@ -1,0 +1,23 @@
+- There are three module types:
+    1. Built-in: http, fs (file system), stream, buffer, v.v
+        -> just need use: const http = require('http');
+    2. 3rd party library
+        -> just need use: const mocha = require('mocha');
+    3. My own module
+        -> just need use: require("./name_js.js")
+
+- How require() work:
+    1. Resolve: find absolutely path
+    2. Load: load the file (.js)
+    3. Wrapper: private scope
+    4. Evaluate: VM load the code
+    5. Cache:
+- Rules of require:
+    1. require('fs') => not start with './' or '../'
+                        require in core module
+                        3rd party in node_modules folder
+
+    2. require('./ || ../') => my own module .js
+                            if it is folder -> load index.js
+
+    3. require('folder_name') => in package.json

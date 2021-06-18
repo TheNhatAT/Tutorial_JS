@@ -1,0 +1,15 @@
+- ES6 import and export syntax:
+    1. Named Export: There can be multiple named exports in a single file:
+        * Multiple things to export -> use { ... } (all things in curly braces)
+        * Note:
+            - the name used while exporting has to match the name which is used while importing
+    2. Default Exports: There can be only one default export in a single file
+        * Use: export default name_thing
+        * Note:
+            - can use another name to import
+- ES6 default parameters
+    1. example:
+    function showMessage(firstName = 'Guest') {
+       return "Welcome back, " + firstName;
+    }
+    2. null != undefined

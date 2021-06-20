@@ -6,13 +6,16 @@
     3. My own module
         -> just need use: require("./name_js.js")
 
-- How require() work:
+- How require() work (flow):
     1. Resolve: find absolutely path
     2. Load: load the file (.js)
     3. Wrapper: private scope
     4. Evaluate: VM load the code
-    5. Cache:
-- Rules of require:
+    5. Cached: if you return a object -> require('..') return a cached
+    version even you require more than 1. (the same object)
+    --> return module.exports
+
+- Resolve + Load:
     1. require('fs') => not start with './' or '../'
                         require in core module
                         3rd party in node_modules folder
@@ -21,3 +24,18 @@
                             if it is folder -> load index.js
 
     3. require('folder_name') => in package.json
+
+- Wrapper:
+    1. Everything is inside a wrapper function
+Proxy [
+  [
+    '(function (exports, require, module, __filename, __dirname) { ',
+    '\n});'
+  ],
+  { set: [Function: set], defineProperty: [Function: defineProperty] }
+]
+
+- exports vs module.exports:
+    1. exports
+    2. module.exports
+    --> First: two things above point to the same object

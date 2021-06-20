@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="bf42ec5e-e838-42ee-80ba-1bb6cba5865b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/day3/async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3/async.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day3/async.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/math/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/math/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/math/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/math/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/node_modules/mymath.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/node_modules/mymath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/regular_expression/regur.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/regular_expression/regur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/myself/async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/async.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myself/async.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/myself/promise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutor_text/miss_xing_lesson.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutor_text/miss_xing_lesson.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,28 +50,28 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.promise.js">
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day2/app.js" working-dir="$PROJECT_DIR$/day2">
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/app.js" working-dir="$PROJECT_DIR$/missxing">
       <method v="2" />
     </configuration>
-    <configuration name="async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day3/async.js" working-dir="$PROJECT_DIR$/day3">
+    <configuration name="async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/myself/async.js" working-dir="$PROJECT_DIR$/myself">
       <method v="2" />
     </configuration>
-    <configuration name="mymath.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day2/node_modules/mymath.js" working-dir="$PROJECT_DIR$/day2/node_modules">
+    <configuration name="mymath.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/node_modules/mymath.js" working-dir="$PROJECT_DIR$/missxing/node_modules">
       <method v="2" />
     </configuration>
-    <configuration name="promise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day3/promise.js" working-dir="$PROJECT_DIR$/day3">
+    <configuration name="promise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/myself/promise.js" working-dir="$PROJECT_DIR$/myself">
       <method v="2" />
     </configuration>
-    <configuration name="regur.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day2/regular_expression/regur.js" working-dir="$PROJECT_DIR$/day2/regular_expression">
+    <configuration name="regur.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/regular_expression/regur.js" working-dir="$PROJECT_DIR$/missxing/regular_expression">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.promise.js" />
         <item itemvalue="Node.js.async.js" />
         <item itemvalue="Node.js.regur.js" />
-        <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.mymath.js" />
       </list>
     </recent_temporary>
@@ -79,7 +86,8 @@
       <updated>1624010670679</updated>
       <workItem from="1624010671768" duration="3128000" />
       <workItem from="1624096913098" duration="2000" />
-      <workItem from="1624184237210" duration="7457000" />
+      <workItem from="1624184237210" duration="8133000" />
+      <workItem from="1624202491469" duration="1894000" />
     </task>
     <servers />
   </component>
@@ -109,12 +117,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="NodeJSConfigurationType">
-        <watch expression="this" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

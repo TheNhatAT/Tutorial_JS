@@ -1,0 +1,15 @@
+There are 3 things to focus on:
+    1. Producing code: it is code that can take some time to make
+    2. Consuming code: it is code that must wait for the result
+    3. Promise: it is a object that links producing code and consuming code
+    (w3school)
+
+There are 3 state and result in Promise object:
+    1. Pending ( đang chờ xử lý ) - undefined
+    2. Fulfilled ( đã xong ) - a result value
+    3. Rejected ( từ chối ) - ann error object
+
+ async and await:
+    - async makes a function return a Promise (Producer)
+    - await makes a function wait for a Promise (Consumer)
+    -> await is inside async function

@@ -1,7 +1,8 @@
 function view() {
-    setTimeout(testTimeout, 5000);
+    setTimeout(testTimeout, 1000);
 }
 
+//== gọi chồng chất mỗi 1s
 setInterval(view, 1000);
 
 // function myCal(a, b, callback) {

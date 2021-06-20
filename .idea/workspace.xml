@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf42ec5e-e838-42ee-80ba-1bb6cba5865b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_text/ES6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutor_text/ES6.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +38,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.regur.js">
+  <component name="RunManager" selected="Node.js.async.js">
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day2/app.js" working-dir="$PROJECT_DIR$/day2">
+      <method v="2" />
+    </configuration>
+    <configuration name="async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day3/async.js" working-dir="$PROJECT_DIR$/day3">
       <method v="2" />
     </configuration>
     <configuration name="mymath.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day2/node_modules/mymath.js" working-dir="$PROJECT_DIR$/day2/node_modules">
@@ -51,6 +53,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.async.js" />
         <item itemvalue="Node.js.regur.js" />
         <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.mymath.js" />
@@ -66,6 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1624010670679</updated>
       <workItem from="1624010671768" duration="3128000" />
+      <workItem from="1624096913098" duration="2000" />
+      <workItem from="1624184237210" duration="1219000" />
     </task>
     <servers />
   </component>
@@ -94,5 +99,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/day3/async.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

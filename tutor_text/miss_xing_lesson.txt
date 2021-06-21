@@ -41,6 +41,22 @@ Proxy [
     --> First: two things above point to the same object
 
 *********************
---------- Buffer ----------
+Buffer:
 - It's designed to work with raw binary data
 - Use with steam: I/O system, HTTP
+
+Path:
+- Using for multiple OS (linux, windows,v.v)
+- require('path');
+
+Stream (for huge file):
+- There are four types of stream:
+    + Readable -> fs.createReadStream
+    + Writable -> fs.createWriteStream
+    + Duplex (song công) -> socket => HttpRequest (w), HttpResponse (r)
+    + Transform .txt --zlib.createGzip--> .zip
+
+********************
+Core module
+    - http: create a server (socket to listen a port)
+

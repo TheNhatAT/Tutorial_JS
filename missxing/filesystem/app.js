@@ -1,3 +1,4 @@
+//== read file
 const  fs = require('fs');
 
 //-- sync ver for https
@@ -11,3 +12,13 @@ fs.readFile('./text.txt', ((err, data) => {
     console.log(data.toString());
 }))
 console.log('end');
+
+//== write file
+//-- sync
+fs.writeFileSync('./text.txt', 'Hello nhat', 'utf-8');
+
+//-- async
+fs.writeFile('./text.js', 'Hello Nhat', 'utf-8', err => {
+    if (err) throw err;
+})
+

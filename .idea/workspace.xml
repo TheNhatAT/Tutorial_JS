@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf42ec5e-e838-42ee-80ba-1bb6cba5865b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/missxing/module_pattern/pattern1/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/module_pattern/pattern1/pattern1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/module_pattern/pattern2/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/module_pattern/pattern2/pattern2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/module_pattern/pattern3/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/module_pattern/pattern3/pattern3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/module_pattern/pattern4/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/module_pattern/pattern4/pattern4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutor_text/miss_xing_lesson.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutor_text/miss_xing_lesson.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +59,7 @@
       <recent name="C:\Users\dmx\WebstormProjects\Tutorial\missxing\module_pattern\pattern2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.js (4)">
+  <component name="RunManager" selected="Node.js.bufferdemo.js">
     <configuration name="app.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/module_pattern/pattern1/app.js" working-dir="$PROJECT_DIR$/missxing/module_pattern/pattern1">
       <method v="2" />
     </configuration>
@@ -79,16 +72,16 @@
     <configuration name="app.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/module_pattern/pattern4/app.js" working-dir="$PROJECT_DIR$/missxing/module_pattern/pattern4">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/app.js" working-dir="$PROJECT_DIR$/missxing">
+    <configuration name="bufferdemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/buffer/bufferdemo.js" working-dir="$PROJECT_DIR$/missxing/buffer">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.bufferdemo.js" />
         <item itemvalue="Node.js.app.js (4)" />
         <item itemvalue="Node.js.app.js (3)" />
         <item itemvalue="Node.js.app.js (2)" />
         <item itemvalue="Node.js.app.js (1)" />
-        <item itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -104,7 +97,7 @@
       <workItem from="1624096913098" duration="2000" />
       <workItem from="1624184237210" duration="8133000" />
       <workItem from="1624202491469" duration="3015000" />
-      <workItem from="1624238099366" duration="2129000" />
+      <workItem from="1624238099366" duration="2849000" />
     </task>
     <servers />
   </component>

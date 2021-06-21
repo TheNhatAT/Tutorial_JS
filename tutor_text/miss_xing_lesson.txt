@@ -39,3 +39,8 @@ Proxy [
     1. exports
     2. module.exports
     --> First: two things above point to the same object
+
+*********************
+--------- Buffer ----------
+- It's designed to work with raw binary data
+- Use with steam: I/O system, HTTP

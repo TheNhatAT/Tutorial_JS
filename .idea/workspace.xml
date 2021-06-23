@@ -71,34 +71,33 @@
       <recent name="C:\Users\dmx\WebstormProjects\Tutorial\myself" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.js (3)">
+  <component name="RunManager" selected="Node.js.app.js">
     <configuration name="app.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/app.js" working-dir="$PROJECT_DIR$/missxing">
       <method v="2" />
     </configuration>
     <configuration name="app.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/stream/transform/app.js" working-dir="$PROJECT_DIR$/missxing/stream/transform">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/filesystem/app.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing/filesystem">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/filesystem/app.js" working-dir="$PROJECT_DIR$/missxing/filesystem">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/app.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/app.js" working-dir="$PROJECT_DIR$/missxing">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/stream/transform/app.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing/stream/transform">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/stream/transform/app.js" working-dir="$PROJECT_DIR$/missxing/stream/transform">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/http/app.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing/http">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/http/app.js" working-dir="$PROJECT_DIR$/missxing/http">
       <method v="2" />
     </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/stream/readable_writable/app.js" working-dir="$PROJECT_DIR$/missxing/stream">
       <method v="2" />
     </configuration>
-    <configuration name="bufferdemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/buffer/bufferdemo.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing/buffer">
+    <configuration name="bufferdemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/buffer/bufferdemo.js" working-dir="$PROJECT_DIR$/missxing/buffer">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.app.js (3)" />
         <item itemvalue="Node.js.app.js (2)" />
         <item itemvalue="Node.js.app.js (2)" />
         <item itemvalue="Node.js.app.js" />

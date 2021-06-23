@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf42ec5e-e838-42ee-80ba-1bb6cba5865b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/missxing/http/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/stream/readable_writable/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/stream/readable_writable/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/stream/transform/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missxing/stream/transform/des.txt.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NodejsTutorial.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/missxing/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/missxing/filesystem/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/filesystem/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/missxing/filesystem/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/filesystem/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/missxing/regular_expression/regur.js" beforeDir="false" afterPath="$PROJECT_DIR$/myself/regular_expression/regur.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myself/async.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutor_text/async.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_text/miss_xing_lesson.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutor_text/miss_xing_lesson.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missxing/http/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/http/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +55,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -85,16 +78,22 @@
     <configuration name="app.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/stream/transform/app.js" working-dir="$PROJECT_DIR$/missxing/stream/transform">
       <method v="2" />
     </configuration>
-    <configuration name="app.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/http/app.js" working-dir="$PROJECT_DIR$/missxing/http">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/filesystem/app.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing/filesystem">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/filesystem/app.js" working-dir="$PROJECT_DIR$/missxing/filesystem">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/app.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/stream/transform/app.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing/stream/transform">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/http/app.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing/http">
       <method v="2" />
     </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/stream/readable_writable/app.js" working-dir="$PROJECT_DIR$/missxing/stream">
       <method v="2" />
     </configuration>
-    <configuration name="bufferdemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/buffer/bufferdemo.js" working-dir="$PROJECT_DIR$/missxing/buffer">
+    <configuration name="bufferdemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../NodejsTutorial/missxing/buffer/bufferdemo.js" working-dir="$PROJECT_DIR$/../NodejsTutorial/missxing/buffer">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -120,6 +119,10 @@
       <workItem from="1624184237210" duration="8133000" />
       <workItem from="1624202491469" duration="3015000" />
       <workItem from="1624238099366" duration="12291000" />
+      <workItem from="1624291844600" duration="90000" />
+      <workItem from="1624377295579" duration="21000" />
+      <workItem from="1624416367549" duration="31000" />
+      <workItem from="1624460739793" duration="104000" />
     </task>
     <servers />
   </component>
@@ -137,7 +140,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>

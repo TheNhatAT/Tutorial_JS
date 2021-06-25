@@ -1,0 +1,24 @@
+There are three parts in express:
+    - Parse req + Send res:
+        + extract obj from req
+        + render html
+        + send res
+    - Routing:
+        + router req
+        + filter/validate incoming req
+    - Managing Data:
+        + session
+        + working with DB
+*********************************
+Structure:
+    - install dependencies
+    - instantiations (get an instance of Express)
+    - configurations:
+        + port number
+        + 'view cache'
+        + 'strict routing'
+        + view engine: ejs, pug, etc
+    - middlewares
+    - Routes
+    - Error handling
+    - Boot up

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf42ec5e-e838-42ee-80ba-1bb6cba5865b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NodejsTutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/missxing/express/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/missxing/express/express.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/missxing/express/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/missxing/http/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/http/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missxing/http/url/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/missxing/http/url/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutor_text/miss_xing_lesson.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutor_text/miss_xing_lesson.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ECMAScript 6" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.17.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/missxing/module_pattern/pattern4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/missxing" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,30 +63,30 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dmx\WebstormProjects\NodejsTutorial\missxing" />
+      <recent name="C:\Users\dmx\WebstormProjects\NodejsTutorial\missxing\http\serve_big_file" />
       <recent name="C:\Users\dmx\WebstormProjects\Tutorial\missxing\module_pattern\pattern4" />
       <recent name="C:\Users\dmx\WebstormProjects\Tutorial\missxing\module_pattern\pattern3" />
       <recent name="C:\Users\dmx\WebstormProjects\Tutorial\missxing\module_pattern\pattern2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dmx\WebstormProjects\NodejsTutorial\missxing\nodejs-basic" />
       <recent name="C:\Users\dmx\WebstormProjects\Tutorial\tutor_text" />
       <recent name="C:\Users\dmx\WebstormProjects\Tutorial\missxing\stream\readable_writable" />
       <recent name="C:\Users\dmx\WebstormProjects\Tutorial\myself" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.app.js">
-    <configuration name="app.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/app.js" working-dir="$PROJECT_DIR$/missxing">
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/npm/app.js" working-dir="$PROJECT_DIR$/missxing/npm">
       <method v="2" />
     </configuration>
-    <configuration name="app.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/stream/transform/app.js" working-dir="$PROJECT_DIR$/missxing/stream/transform">
+    <configuration name="app.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/http/url/app.js" working-dir="$PROJECT_DIR$/missxing/http/url">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/filesystem/app.js" working-dir="$PROJECT_DIR$/missxing/filesystem">
+    <configuration name="app.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/express/app.js" working-dir="$PROJECT_DIR$/missxing/express">
       <method v="2" />
     </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/app.js" working-dir="$PROJECT_DIR$/missxing">
-      <method v="2" />
-    </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/stream/transform/app.js" working-dir="$PROJECT_DIR$/missxing/stream/transform">
       <method v="2" />
     </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/http/app.js" working-dir="$PROJECT_DIR$/missxing/http">
@@ -93,15 +95,23 @@
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/stream/readable_writable/app.js" working-dir="$PROJECT_DIR$/missxing/stream">
       <method v="2" />
     </configuration>
-    <configuration name="bufferdemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/missxing/buffer/bufferdemo.js" working-dir="$PROJECT_DIR$/missxing/buffer">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/missxing/npm/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.app.js (2)" />
-        <item itemvalue="Node.js.app.js (2)" />
         <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.app.js (5)" />
+        <item itemvalue="Node.js.app.js (4)" />
         <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +132,10 @@
       <workItem from="1624377295579" duration="21000" />
       <workItem from="1624416367549" duration="31000" />
       <workItem from="1624460739793" duration="104000" />
+      <workItem from="1624463615715" duration="2302000" />
+      <workItem from="1624502933493" duration="107000" />
+      <workItem from="1624548612017" duration="1658000" />
+      <workItem from="1624591130897" duration="1433000" />
     </task>
     <servers />
   </component>
@@ -139,7 +153,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>

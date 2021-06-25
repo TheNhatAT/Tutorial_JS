@@ -57,6 +57,13 @@ Stream (for huge file):
     + Transform .txt --zlib.createGzip--> .zip
 
 ********************
-Core module
-    - http: create a server (socket to listen a port)
-
+Node Project Manager:npm
+    - semantic version: vd:"moment": "^2.29.1"
+        + 1 --> path version | bug fix
+        + 29 --> minor version | add new feature | bugfix
+        + 2 --> major version | a lot of updates | (may) break changes
+        + ^ --> update the minor version
+        + ~ --> only update patch version
+    - package-lock.json:
+        + track the versions of every dependencies which is used
+        + manually change (by yourself)
